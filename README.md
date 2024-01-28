@@ -1,5 +1,3 @@
-# Images compression by Singular Value Decomposition
-
 | Authors | Student number at POLITO |
 |--|--|
 | Mazzarini Tommaso | s332078 |
