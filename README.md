@@ -1,2 +1,6 @@
-# SVD_Image_Compression
-Images compression by Singular Value Decomposition
+# Images compression by Singular Value Decomposition
+
+| Authors | Student number at POLITO |
+|--|--|
+| Mazzarini Tommaso | s332078 |
+| Pisanu Riccardo| s328202 |
